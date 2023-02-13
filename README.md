@@ -8,9 +8,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/emeraldng/count.svg?"  />
-</div>
 
 ###
 
@@ -21,6 +18,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/emeraldng/emeraldng/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
